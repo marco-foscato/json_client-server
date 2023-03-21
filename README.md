@@ -1,3 +1,8 @@
+
+## Archived: development moved to [https://github.com/denoptim-project/dnptools](https://github.com/denoptim-project/dnptools)
+
+
+
 # DENOPTIM's Python tools (dnptools)
 Repository for python utilities related with DENOPTIM: the software for De Novo OPTimization of In/organic Molecules (see https://github.com/denoptim-project/DENOPTIM).
 
